@@ -18,7 +18,7 @@ jokes = [
 "What did the ocean say to the beach? Nothing, it just waved!",
 "Why did the math book look sad? Because it had too many problems!"
 ]
-]
+
 keep_playing = "yes"
 
 while keep_playing == "yes" or keep_playing == "Yes":
