@@ -13,9 +13,9 @@ keep_playing = "yes"
 while keep_playing == "yes" or keep_playing == "Yes:
   joke_selected = random.randint (1, 3) 
 
-    print (f"Selecting Random Joke Number: {joke_selected}")
+  print (f"Selecting Random Joke Number: {joke_selected}")
 
-    time.sleep (3)
+  time.sleep (3)
 
   if joke_selected == 1:
     print (f"Random Joke Is: {joke_1}")
