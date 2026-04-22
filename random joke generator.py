@@ -8,8 +8,16 @@ print ("Welcome To Random Joke Generator version 1.3.2")
 
 jokes = [
 "Why did the chicken cross the road? To run from the KFC",
-"Have you heard the rumor of the margarin? Never mind I butter not spread it",
-"What did the eraser say to the pencil? You're lookin mighty sharp today"
+"Have you heard the rumor of the margarine? Never mind I butter not spread it",
+"What did the eraser say to the pencil? You're lookin mighty sharp today",
+"Why don't scientists trust atoms? Because they make up everything!",
+"What do you call a fake noodle? An impasta!",
+"Why did the scarecrow win an award? He was outstanding in his field!",
+"What do you call a sleeping bull? A dozer!",
+"Why don't eggs tell jokes? They'd crack each other up!",
+"What did the ocean say to the beach? Nothing, it just waved!",
+"Why did the math book look sad? Because it had too many problems!"
+]
 ]
 keep_playing = "yes"
 
